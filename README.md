@@ -2,7 +2,7 @@
 
 Secret Wallet is a blockchain-based website for tracking wallet transactions and transferring cryptocurrencies using wallet IDs. Please note that this application is currently operating in the test network only.
 
-![Secret Wallet Screenshot](https://raw.githubusercontent.com/gpraj-works/secret-wallet-for-dev/master/secret_wallet/images/SecretWallet%20_%20Make%20Safe%20Transactions%20(1).png?token=GHSAT0AAAAAACD75CPRNUVSLC3GMUNW752WZE4AJYQ)
+![Secret Wallet Screenshot](https://raw.githubusercontent.com/gpraj-works/secret-wallet/master/assets/SecretWallet-Make-Safe-Transactions.png)
 
 ## Table of Contents
 
